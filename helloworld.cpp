@@ -2,7 +2,8 @@
 
 int main() {
 
-std::cout << "Hello World!";
-return 0;
+    // Print out "Hello World!"
+    std::cout << "Hello World!";
+    return 0;
 
 }
